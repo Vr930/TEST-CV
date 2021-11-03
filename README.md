@@ -1,2 +1,2 @@
-https://vr930.github.io/test-cv/
+https://vr930.github.io/TEST-CV/
 
