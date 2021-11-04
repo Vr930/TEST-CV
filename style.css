@@ -123,3 +123,10 @@ text-align: center;
 .weight {
     font-weight: 600;
 }
+
+.new {
+    color: blue;
+    margin-top: 150px;
+    font-size: large;
+    font-weight: 300;
+}
